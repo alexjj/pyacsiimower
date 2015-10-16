@@ -5,7 +5,7 @@ import getopt
 import sys
 
 def usage():
-    print 'Usage: ./tondeuse.py [options]'
+    print 'Usage: ./mow.py [options]'
     print '  -s, --slow=DELAY    slow delay'
     print '  -f, --fast=DELAY    fast delay'
     print '      --nocolor       self explanatory'
