@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#Forked from https://bitbucket.org/jvillard/tondeuse/
+
 import getopt
 import sys
 
