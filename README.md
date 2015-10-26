@@ -17,3 +17,6 @@ Usage: ./mow.py [options]
       --nowait        do not wait at the end  
   -i, --nointerrupt   Ctrl+C is not your friend anymore
 ```
+
+
+   |(•◡•)|╯╰(❍ ᴥ ❍ ʋ)
