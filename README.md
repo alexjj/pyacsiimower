@@ -1,6 +1,11 @@
 # pyacsiimower
 Trim that grass
 
+## Install
+git clone https://github.com/alexjj/pyacsiimower.git  
+cd pyasciimower  
+chmod +x mow.py  
+
 ## Usage
 
 Usage: ./mow.py [options]  
